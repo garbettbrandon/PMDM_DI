@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="tu_nombre">Tu nombre</string>
+    <string name="enviar_a_2">ENVIAR A 2</string>
+    <string name="salir">SALIR</string>
+    <string name="mensaje">MENSAJE</string>
+    <string name="enviar_a_3">ENVIAR A 3</string>
+    <string name="enviar_texto_a_a3">Enviar Texto a A3</string>
+    <string name="volver">VOLVER</string>
+    <string name="nueva_a1">NUEVA A1</string>
+</resources>

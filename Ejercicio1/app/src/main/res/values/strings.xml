@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio1</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre:</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="escribe_tu_nom">Escribe tu nombre...</string>
+    <string name="el_nombre_es">El nombre es ...</string>
+
+</resources>

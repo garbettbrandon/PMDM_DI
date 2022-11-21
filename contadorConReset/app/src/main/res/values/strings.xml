@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">contadorConReset</string>
+    <string name="nombre">Nombre</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+    <string name="escribe_tu_correo">Escribe tu correo</string>
+    <string name="correo">Correo</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="aqu_va_el_texto_introducido">Aquí va el texto introducido</string>
+    <string name="escribe_tu_tel_fono">Escribe tu teléfono</string>
+</resources>

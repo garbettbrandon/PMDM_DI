@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProyectoIntent</string>
+    <string name="elige_un_destino">Elige un destino</string>
+    <string name="name">Name</string>
+    <string name="fecha_ida">FECHA IDA</string>
+    <string name="hora_vuelta">HORA VUELTA</string>
+    <string name="hora_ida">HORA IDA</string>
+    <string name="fecha_vuelta">FECHA VUELTA</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="dni">DNI</string>
+    <string name="ida_y_vuelta">IDA Y VUELTA?</string>
+    <string-array name="array_ciudades">
+        <item>Madrid</item>
+        <item>Santander</item>
+        <item>Santiago</item>
+    </string-array>
+</resources>
